@@ -36,9 +36,9 @@ options:
     type: str
     choices:
     - exec
+    - incoming
     - login
     - motd
-    - incoming
     - slip-ppp
   text:
     description:
